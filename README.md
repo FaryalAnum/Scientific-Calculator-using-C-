@@ -1,2 +1,2 @@
-# Scientific-Calculator-using-C-
+# Scientific-Calculator-using-C++-
 Scientific calculator with many functions 
